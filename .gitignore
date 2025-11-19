@@ -1,0 +1,46 @@
+# macOS system files
+.DS_Store
+*.swp
+*.lock
+~$*
+
+# Xcode user-specific (always ignore - causes most conflicts)
+*/xcuserdata/
+*.xcuserstate
+*.xcuserdatad
+
+# Build/generated files
+DerivedData/
+build/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager (ignore built artifacts, but commit Package.resolved!)
+.swiftpm/
+.build/
+Packages/
+Package.pins   # optional - some teams ignore if using Xcode's auto-resolve
+
+# CocoaPods (recommend committing Pods/, but if you don't want to:)
+# Pods/
+
+# Carthage (if you use it)
+Carthage/Build/
+Carthage/Checkouts
+
+# fastlane (optional but common)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output
+
+# Other common
+*.bcc
+*.pch

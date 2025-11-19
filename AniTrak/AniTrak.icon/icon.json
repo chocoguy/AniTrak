@@ -1,0 +1,111 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.52549,0.56078,1.00000,1.00000",
+      "srgb:0.22745,0.29412,1.00000,1.00000"
+    ],
+    "orientation" : {
+      "start" : {
+        "x" : 0.5,
+        "y" : 0
+      },
+      "stop" : {
+        "x" : 0.5,
+        "y" : 0.7
+      }
+    }
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "fill" : {
+            "solid" : "srgb:1.00000,0.55017,0.10920,1.00000"
+          },
+          "image-name" : "circle-play-solid-full.svg",
+          "name" : "circle-play-solid-full",
+          "position" : {
+            "scale" : 0.3,
+            "translation-in-points" : [
+              -241.52265624999995,
+              0
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "fill" : {
+            "solid" : "srgb:1.00000,0.54920,0.10991,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "display-solid-full.svg",
+          "name" : "display-solid-full",
+          "position" : {
+            "scale" : 0.8,
+            "translation-in-points" : [
+              -241.52265625,
+              17.40195520527209
+            ]
+          }
+        },
+        {
+          "blend-mode" : "overlay",
+          "fill" : {
+            "solid" : "srgb:1.00000,0.55017,0.10920,1.00000"
+          },
+          "image-name" : "pencil-solid-full.svg",
+          "name" : "pencil-solid-full",
+          "position" : {
+            "scale" : 0.36,
+            "translation-in-points" : [
+              399.1923381093012,
+              14.44500068182839
+            ]
+          }
+        },
+        {
+          "fill" : {
+            "solid" : "srgb:1.00000,0.55017,0.10920,1.00000"
+          },
+          "image-name" : "list-check-solid-full.svg",
+          "name" : "list-check-solid-full",
+          "position" : {
+            "scale" : 0.51,
+            "translation-in-points" : [
+              230.18962499999998,
+              36.3349097287159
+            ]
+          }
+        },
+        {
+          "fill" : {
+            "solid" : "srgb:1.00000,0.55017,0.10920,1.00000"
+          },
+          "image-name" : "clipboard-regular-full.svg",
+          "name" : "clipboard-regular-full",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              230.171875,
+              5.684341886080802e-14
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

@@ -1,0 +1,30 @@
+[
+	{
+		"MediaTypeId": 1,
+		"Name": "TV"
+	},
+	{
+		"MediaTypeId": 2,
+		"Name": "Unknown"
+	},
+		{
+		"MediaTypeId": 3,
+		"Name": "OVA"
+	},
+	{
+		"MediaTypeId": 4,
+		"Name": "ONA"
+	},
+	{
+		"MediaTypeId": 5,
+		"Name": "Movie"
+	},
+	{
+		"MediaTypeId": 6,
+		"Name": "Special"
+	},
+	{
+		"MediaTypeId": 7,
+		"Name": "Music"
+	},
+]

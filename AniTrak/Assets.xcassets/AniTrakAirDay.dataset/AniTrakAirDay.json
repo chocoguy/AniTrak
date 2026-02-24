@@ -1,0 +1,30 @@
+[
+	{
+		"AirDayId": 1,
+		"Name": "Monday"
+	},
+	{
+		"AirDayId": 2,
+		"Name": "Tuesday"
+	},
+	{
+		"AirDayId": 3,
+		"Name": "Wednesday"
+	},
+	{
+		"AirDayId": 4,
+		"Name": "Thursday"
+	},
+	{
+		"AirDayId": 5,
+		"Name": "Friday"
+	},
+	{
+		"AirDayId": 6,
+		"Name": "Saturday"
+	},
+	{
+		"AirDayId": 7,
+		"Name": "Sunday"
+	},
+]

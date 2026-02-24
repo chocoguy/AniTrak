@@ -1,0 +1,22 @@
+[
+	{
+		"WatchStatusId": 1,
+		"Name": "Watching"
+	},
+	{
+		"WatchStatusId": 2,
+		"Name": "Finished"
+	},
+	{
+		"WatchStatusId": 3,
+		"Name": "Dropped"
+	},
+	{
+		"WatchStatusId": 4,
+		"Name": "Fresh"
+	},
+	{
+		"WatchStatusId": 5,
+		"Name": "Stalled"
+	},
+]

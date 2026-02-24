@@ -8,9 +8,13 @@
 import SwiftUI
 
 struct AnimeNavStack: View {
+    
+    @State private var path = NavigationPath()
+    
     var body: some View {
-        NavigationStack {
-            AnimeListForm()
+                
+        NavigationStack(path: $path) {
+            AnimeListForm(path: $path)
         }.navigationTitle(Text("Anime"))
             .toolbar {
                 ToolbarItem() {

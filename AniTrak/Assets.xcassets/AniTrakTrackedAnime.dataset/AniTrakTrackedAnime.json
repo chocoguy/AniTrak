@@ -1,0 +1,16 @@
+[
+	{
+		"TrackedAnimeId": 1,
+		"UserKey": 1,
+		"AnimeKey": 1,
+		"WatchStatusKey": 4,
+		"StartedWatching": null,
+		"StoppedWatching": null,
+		"LastWatched": null,
+		"EpisodesWatched": 0,
+		"LastMofified": "2025-12-13",
+		"IsDeleted": false,
+		"Progress": 0.00,
+		"TimeWatched": 0
+	}
+]

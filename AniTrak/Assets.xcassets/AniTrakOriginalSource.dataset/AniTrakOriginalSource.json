@@ -1,0 +1,63 @@
+[
+	{
+		"OriginalSourceId": 1,
+		"Name": "Manga"
+	},
+	{
+		"OriginalSourceId": 2,
+		"Name": "Other"
+	},
+	{
+		"OriginalSourceId": 3,
+		"Name": "Original"
+	},
+	{
+		"OriginalSourceId": 4,
+		"Name": "4 Koma Manga"
+	},
+		{
+		"OriginalSourceId": 5,
+		"Name": "Web Manga"
+	},
+		{
+		"OriginalSourceId": 6,
+		"Name": "Digital Manga"
+	},
+		{
+		"OriginalSourceId": 7,
+		"Name": "Novel"
+	},
+		{
+		"OriginalSourceId": 8,
+		"Name": "Light Novel"
+	},
+		{
+		"OriginalSourceId": 9,
+		"Name": "Visual Novel"
+	},
+		{
+		"OriginalSourceId": 10,
+		"Name": "Game"
+	},
+		{
+		"OriginalSourceId": 11,
+		"Name": "Card Game"
+	},
+	{
+		"OriginalSourceId": 12,
+		"Name": "Book"
+	},
+	{
+		"OriginalSourceId": 13,
+		"Name": "Picture Book"
+	},
+	{
+		"OriginalSourceId": 14,
+		"Name": "Radio"
+	},
+	{
+		"OriginalSourceId": 15,
+		"Name": "Music"
+	},
+
+]
